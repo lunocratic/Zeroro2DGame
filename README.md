@@ -1,6 +1,6 @@
 # Zeroro2DGame 🎮
 
-*[Click here to play 🎮 the game in your browser 👈](https://ashok0076.github.io/Zeroro2DGame/)*
+*Play Now In Browser: [Click here to play 🎮 the game in your browser 👈](https://ashok0076.github.io/Zeroro2DGame/)*
 
 *APK file: [Zeroro2DGame.apk](https://github.com/ashok0076/Zeroro2DGame/raw/main/Zeroro2D.apk).*
 
