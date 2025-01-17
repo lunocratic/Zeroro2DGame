@@ -1,6 +1,7 @@
 # Zeroro2DGame 🎮
 
 **[Click here to play the game in your browser](https://ashok0076.github.io/Zeroro2DGame/)**
+APK file: [Zeroro2DGame.apk](https://github.com/ashok0076/Zeroro2DGame/raw/main/Zeroro2D.apk).
 
 Welcome to **Zeroro2DGame**, my first ever game project! This is a 2D adventure game where you can explore, collect items, and avoid hazards. Built with [Godot Engine](https://godotengine.org/), this project helped me dive into the world of game development.
 
