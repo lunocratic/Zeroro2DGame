@@ -27,5 +27,5 @@ Hey! This is **Zeroro2DGame**, my first 2D adventure game. Run, jump, collect st
 ## Setup (if you wanna run it locally) 🛠️
 
 ```bash
-git clone https://github.com/ashok0076/Zeroro2DGame.git
+git clone https://github.com/lunocratic/Zeroro2DGame.git
 cd Zeroro2DGame
