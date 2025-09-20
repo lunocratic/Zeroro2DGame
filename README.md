@@ -4,7 +4,7 @@
 Its My First 2D Game Ever Made In Godot Engine ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
 
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) ⏎ ᴄʟɪᴄᴋ ᴛᴏ ᴘʟᴀʏ ᴏɴ ʙʀᴏᴡsᴇʀ
+[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://lunocratic.github.io/Zeroro2DGame/) ⏎ ᴄʟɪᴄᴋ ᴛᴏ ᴘʟᴀʏ ᴏɴ ʙʀᴏᴡsᴇʀ
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ⏎ ᴄʟɪᴄᴋ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴀᴘᴋ
 
