@@ -8,6 +8,8 @@ Its **My First 2D Game** Ever Made In Godot Engine  ![Godot Engine](https://img.
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/lunocratic/Zeroro2DGame/raw/refs/heads/main/Zeroro2D.apk) ⏎ ᴄʟɪᴄᴋ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴀᴘᴋ
 
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lunocratic)  ⏎ ʀᴇᴛᴜʀɴ ᴛᴏ ᴘʀᴏꜰɪʟᴇ
+
 
 ## Tech Stack
 <br>
